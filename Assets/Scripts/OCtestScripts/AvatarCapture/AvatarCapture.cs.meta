@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18761151ed0171f4a8fe8f96592902ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _udonSharpBackingUdonBehaviour: {instanceID: 0}
+  - captureCamera: {instanceID: 0}
+  - wallRenderer: {instanceID: 0}
+  - renderTexture: {fileID: 8400000, guid: ba5899206ac2487468c695c052fe6e7e, type: 2}
+  - whiteTexture: {fileID: 2800000, guid: c3e3a0799666ec34b83e42c48dd8d3df, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
